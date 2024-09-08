@@ -1,0 +1,1 @@
+The goal of this project is to quickly create amortization tables for a series of mortgages in a scalable way. The output of this is then used as an input to an MBS cashflow waterfall model which I have also attached.
